@@ -1,0 +1,96 @@
+html body{
+    background-color: #F3DEBA;
+}
+
+/*h1 style*/
+h1{
+  text-align: center;
+  font-style: oblique;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #675D50;
+}
+/*div input style*/
+.firstInput{
+  background-color: #675D50;
+  text-align: center;
+ padding: 2.5%;
+}
+
+/*spazio input style*/
+#taskInput{
+  background-color: #E6CCA9;
+  border: none;
+  padding: 18px 35px;
+  text-decoration: none;
+  margin: 4px 10px;
+  border-radius: 12px;
+}
+
+/*bottone input style*/
+#addBtn{
+  background-color: #E6CCA9;
+  color: #675D50;
+  font-weight: bold;
+  border: none;
+  cursor: pointer; 
+  padding: 10px 18px;
+  border-radius: 12px
+}
+#addBtn:hover{
+  background-color: #A9907E;
+}
+
+/*list style*/
+#myUL{
+  text-align: left;
+  line-height: 40px;
+  list-style-type: none;
+  color:#E6CCA9;
+}
+
+/*bottone reset style*/
+.btn-reset{
+  background-color: #E6CCA9;  
+  color: #675D50; 
+  font-weight: bold;
+  padding: 8px 18px; 
+  border-radius: 12px;
+  border: none;
+  margin-right: 10px;
+  cursor: pointer; 
+  float: left; 
+}
+.btn-reset:hover{
+  background-color: #A9907E;
+}
+
+/*bottone delete style*/
+.btn-delete{
+    background-color: #E6CCA9; 
+    color: #675D50; 
+    font-weight: bold;
+    padding: 8px 18px; 
+    border-radius: 12px;
+    border: none;
+    cursor: pointer; 
+    float: left; 
+  }
+.btn-delete:hover{
+    background-color: #A9907E;
+  }
+
+/*footer style*/
+.footer{
+  text-align: center;
+  margin-top: 110px
+}
+
+/*paragrafo copyright style*/
+p{
+  color: #675D50;
+}
+
+
+
+
